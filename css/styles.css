@@ -39,7 +39,7 @@ a:hover {
 }
 
 #container {
-  width: 1000px;
+  width: 1020px;
   margin: 0 auto;
 }
 
@@ -48,12 +48,13 @@ a:hover {
 }
 
 .site-header {
+  width: 1020px;  
   height: 65px;
   background-color: #fff;
   background-image: url(../img/bg.png);
   background-repeat: repeat;
-  position: fixed;
-  top: 0;
+  text-align:center;
+  top: 10px;
 }
 
 #logo {
@@ -68,10 +69,8 @@ a:hover {
   font-style: bold;
   font-family: "微软雅黑";
   letter-spacing: 4px;
-  position: absolute;
-  text-align: center;
-  top: 10px;
-  left: 380px;
+  
+  line-height:65px;
  }
 
 #nav_main {
@@ -143,7 +142,7 @@ a:hover {
   border: 1px #ccc solid;
   width: 1000px;
   margin: 0 auto;
-  margin-top: 110px;
+  margin-top: 20px;
   padding-left: 20px;
 }
 

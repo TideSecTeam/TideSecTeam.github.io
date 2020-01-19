@@ -58,4 +58,4 @@ Weblogic解密工具包:https://github.com/TideSec/Decrypt_Weblogic_Password
 
 对web安全感兴趣的小伙伴可以关注团队官网: http://www.TideSec.com 或关注公众号：
 
-<div align=center><img src=images/ewm.png width=30% ></div>
+<div align=center><img src=img/ewm.png width=30% ></div>

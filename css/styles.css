@@ -50,8 +50,8 @@ a:hover {
 .site-header {
   width: 1020px;  
   height: 65px;
-  background-color: #fff;
-  background-image: url(../img/bg.png);
+  background-color: #2b232c;
+  /*background-image: url(../img/bg.png);*/
   background-repeat: repeat;
   text-align:center;
   top: 10px;

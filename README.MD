@@ -31,6 +31,9 @@ TideInspire移动端安全管控平台:http://app.sdsecurity.org.cn:8181/
 
 TideVoice潮声漏洞在线检测平台:http://poc.tidesec.com
 
+TideHearing潮听漏洞情报中心:http://vul.tidesec.com
+
+
 ## 自研工具
 
 分布式web漏洞扫描器WDScanner:https://github.com/TideSec/WDScanner
